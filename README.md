@@ -1,2 +1,20 @@
 # Mini_Project
-E_Commerce Website
+E-Commerce
+
+Created an e-commerce website with HTML, CSS & JavaScript but I haven't created an e-commerce website with Product Image Zoom Effect.
+Features of this Ecommerce Website
+
+- Responsive Navigation Bar with toggle effect
+- Responsive Carousel with Glidejs
+- Categories Section
+- New Arrival Products Section
+- Contact Section
+- Footer
+- Responsive PopUp
+- Product Page with Pagination and Sorting
+- Product Details Page with Image Zoom Effect
+- Cart Page
+- Responsive Login Page
+- Responsive SignUp Page
+- Download images here if you want to code along
+- Video Of Ecommerce Website
